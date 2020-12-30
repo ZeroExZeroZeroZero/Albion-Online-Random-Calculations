@@ -1,5 +1,5 @@
 #
-#Make an application that does real damage calculations in albion online
+#Make an tool that does real damage calculations in albion online
 #Author 0x000
 #Date 30.12.2020
 #
