@@ -1,5 +1,5 @@
 #
-#Make an application that calculates the boltcaster damage from deathward climax
+#Make an tool that calculates the boltcaster damage from deathward climax
 #Author 0x000
 #Date 30.12.2020
 #
