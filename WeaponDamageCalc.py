@@ -1,5 +1,5 @@
 #
-#Make an application that calculates tool tip damage per second
+#Make an tool that calculates tool tip damage per second
 #Author 0x000
 #Date 30.12.2020
 #
